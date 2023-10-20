@@ -40,9 +40,6 @@ export default function Signup() {
       setLoading(false)
       setError(error.message)
     }
-
-
-
   }
 
 
